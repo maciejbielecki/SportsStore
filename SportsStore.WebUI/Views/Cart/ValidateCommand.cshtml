@@ -1,0 +1,26 @@
+﻿@model SportsStore.WebUI.Models.PayPalModel
+
+    <h1>Przekierowanie do PayPal</h1>
+        <p>
+            Jeśli przekierowanie nie nastąpi w ciągu 10 sekund:
+        </p>
+    <body>
+        <form id=”hiddenform” action=@ViewBag.actionURL>
+            @Html.HiddenFor(model => model.cmd)
+            @Html.HiddenFor(model => model.business)
+            @Html.HiddenFor(model => model.no_shipping)
+            @Html.HiddenFor(model => model.returnURL)
+            @Html.HiddenFor(model => model.cancel_return)
+            @Html.HiddenFor(model => model.notify_url)
+            @Html.HiddenFor(model => model.currency_code)
+            @Html.HiddenFor(model => model.item_name)
+            @Html.HiddenFor(model => model.amount)
+            <input style="font-size:14px" id="dataRefreshButton" type="submit" name="btn" value="Przejdź do PayPal" />
+        </form>
+    </body>
+
+
+    <script type="text/javascript">
+        setInterval(function () { document.getElementById('dataRefreshButton').click(); }, 10000);
+    </script>
+

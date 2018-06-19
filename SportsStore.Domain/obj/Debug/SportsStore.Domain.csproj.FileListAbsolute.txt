@@ -1,0 +1,87 @@
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\System.Data.SqlLocalDb.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\System.Data.SqlLocalDb.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\System.Data.Common.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\System.Data.SqlClient.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\System.Data.Common.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\System.Data.SqlClient.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\System.Data.SqlLocalDb.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\System.Data.SqlLocalDb.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\bin\Debug\en-GB\System.Data.SqlLocalDb.resources.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\bin\Debug\System.Data.Common.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\bin\Debug\System.Data.SqlLocalDb.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\bin\Debug\System.Data.SqlLocalDb.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\bin\Debug\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\bin\Debug\System.Data.Common.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\bin\Debug\System.Data.SqlLocalDb.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\bin\Debug\System.Data.SqlLocalDb.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\bin\Debug\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\bin\Debug\System.Data.Common.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\bin\Debug\System.Data.SqlLocalDb.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\bin\Debug\System.Data.SqlLocalDb.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\bin\Debug\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.CopyComplete
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb

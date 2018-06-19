@@ -1,0 +1,443 @@
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\ApplicationInsights.config
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\WebActivatorEx.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Castle.Core.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Moq.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Castle.Core.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Moq.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Data.SqlLocalDb.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Data.SqlLocalDb.xml
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\macbi\Desktop\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\ApplicationInsights.config
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Castle.Core.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Web.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Moq.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Data.SqlLocalDb.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\WebActivatorEx.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Castle.Core.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Web.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Moq.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Data.SqlLocalDb.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\bin\en-GB\System.Data.SqlLocalDb.resources.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+F:\reinstal\ASP.NET - nauka\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\ApplicationInsights.config
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Castle.Core.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Moq.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\System.Data.SqlLocalDb.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\WebActivatorEx.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll.config
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Castle.Core.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Moq.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\System.Data.SqlLocalDb.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe.config
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csc.rsp
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csi.exe
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csi.exe.config
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csi.rsp
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Console.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\MACBIELECKI\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.rsp
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\ApplicationInsights.config
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\csc.exe
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\csc.exe.config
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\csc.rsp
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\csi.exe
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\csi.exe.config
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\csi.rsp
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Console.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\vbc.rsp
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Castle.Core.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Moq.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\System.Data.SqlLocalDb.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\WebActivatorEx.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\SportsStore.Domain.dll.config
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Castle.Core.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Moq.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\System.Data.SqlLocalDb.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\bin\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\MACBIELECKI\Desktop\SportsStore - Kopia\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\ApplicationInsights.config
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csc.rsp
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csi.exe
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csi.rsp
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Castle.Core.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Moq.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\System.Data.SqlLocalDb.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\WebActivatorEx.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll.config
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Castle.Core.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Moq.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\System.Data.SqlLocalDb.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\bin\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CopyComplete
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\Maciek\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
